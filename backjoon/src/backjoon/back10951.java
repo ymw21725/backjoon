@@ -6,7 +6,7 @@ public class back10951 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int n1,n2;
+		int n1,n2; 
 		
 		while(sc.hasNext()) {
 			n1=sc.nextInt();
